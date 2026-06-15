@@ -1,0 +1,3 @@
+TENSIO1=true
+BALANCE1=true
+GLUCO1=true
